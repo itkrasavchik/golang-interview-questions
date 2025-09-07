@@ -1,6 +1,6 @@
-<img align="center" src="krasavchik_team_logo.jpeg">
-
 # Роадмап 2025-2026 для подготовки к собеседованиям на валютную удаленку Go разработчиком до $10k+ в месяц.
+
+Подготовлен АйТи Красавчиком (https://www.youtube.com/@itkrasavchik) и другими ребятами из клуба (https://boosty.to/itkrasavchik).
 
 ## Общие
 - Расскажи про свой опыт
