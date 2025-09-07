@@ -29,7 +29,7 @@
 - Расскажи про свои плюсы и минусы
 - Как решали конфликты в команде?
 - Расскажи про одну из последних твоих ошибок, как решали и какие выводы сделали?
-  {{< /details >}}
+  
 
 ## Гошка
 - Что нравится и не нравится в Го?
@@ -61,7 +61,7 @@
 - Что думаешь о дженериках в Го? Пользуешься? А go generate?
 - Для чего нужен пустой интерфейс? А пустая структура?
 - Как дебажишь Гошные программы?
-  {{< /details >}}
+  
 
 ## Микросервисы / паттерны
 - Если пишешь с нуля - монолит или микросервис?
@@ -98,7 +98,7 @@
 - Альтернативы Transactional Outbox: CDC, Event Sourcing, Listen to yourself
 - Rate Limiting Strategies: fixed window, sliding window, token bucket, leaky bucket, semaphore
 - Как защищаться от ошибок в сторонних API? (timeouts, fail-fast, exponential backoff + jitter, retry storms, circuit breakers)
-  {{< /details >}}
+  
 
 ## Базы данных
 - Транзакции, ACID (расшифровка), оптимистичные и пессимистичные блокировки, аномалии, уровни изоляции. select for update.
@@ -123,7 +123,7 @@
 - Разница между sparse и partial index?
 - Что будет, если упадёт primary в MongoDB?
 - Как работает шардинг в MongoDB?
-  {{< /details >}}
+  
 
 ## Брокеры
 - Kafka vs RabbitMQ vs NATS
@@ -142,7 +142,7 @@
 - Как организовать схему сообщений (Avro, Protobuf, JSON Schema)?
 - Какие есть альтернативы брокеру сообщений в event-driven архитектуре?
 - У нас 1 млн событий в минуту, как построить систему на Kafka/RabbitMQ?
-  {{< /details >}}
+  
 
 ## Linux / протоколы
 - Какие знаешь syscalls?
@@ -167,7 +167,7 @@
 - Разница между Cookie, Session, JWT
 - Команды шелла, которыми пользуешься каждый день (ls, cd, grep, find, history, cat, less, wc, chmod, chown, ps, kill, netstat, lsof, ping, wget, curl, touch, make, head, tail, ifconfig, top, tar, unzip, bg, jobs, diff, scp, ssh, rsync и т п)
 - HTTP2 и GRPC. Multiplexing & Streaming. Плюсы и минусы с REST. Protobuf, protoc. 4 types of RPC calls. Headers (metadata). Versioning. GRPC gateway.
-  {{< /details >}}
+  
 
 ## Докер
 - Чем отличается докер от виртуальных машин?
@@ -189,7 +189,7 @@
 - Как ограничить использование CPU и памяти контейнером?
 - Как работает Docker под капотом?
 - Как мониторить контейнеры?
-  {{< /details >}}
+  
 
 ## Terraform
 - Что такое провайдер, ресурс, дата-сорс в Terraform?
@@ -205,7 +205,7 @@
 - Как хранить секреты (пароли, ключи) в Terraform?
 - Когда использовать terraform import?
 - Как работают provider alias и зачем они нужны?
-  {{< /details >}}
+  
 
 ## Kubernetes
 - Kubernetes: что такое под? Чем отличается от контейнера?
@@ -221,7 +221,7 @@
 - Как посмотреть логи пода?
 - Как войти внутрь контейнера?
 - Статусы пода (CrashLoopBackOff/Pending и т п)
-  {{< /details >}}
+  
 
 ## Observability
 - Три столпа observability (metrics, logs, traces). Чем отличаются?
@@ -239,4 +239,4 @@
 - Что такое span и trace?
 - Как добавить OpenTelemetry в микросервис?
 - Как подключить OTLP exporter и куда он может слать данные?
-  {{< /details >}}
+  
